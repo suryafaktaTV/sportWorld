@@ -1,3 +1,4 @@
+#EXTM3U:
 #EXTINF:-1 tvg-id="Sky Sport Austria HD" tvg-name="|DE| SKY SPORT AUSTRIA FHD/HD" tvg-logo="http://tv.iptvboss.net/ch_logo/SKYSPORTAUSTRIA.png" group-title="|AT| AUSTRIA",|DE| SKY SPORT AUSTRIA FHD/HD 
 http://bosstr.net:80/testskype1/6q60C0QwC4/3897 
 #EXTINF:-1 tvg-id="Sky Sport Austria HD" tvg-name="|DE| SKY SPORT AUSTRIA FHD/HD *" tvg-logo="http://tv.iptvboss.net/ch_logo/SKYSPORTAUSTRIA.png" group-title="|DE| SPORT FHD/HD",|DE| SKY SPORT AUSTRIA FHD/HD * 
