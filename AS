@@ -1,0 +1,114 @@
+#EXTINF:-1 tvg-id="Sky Sport Austria HD" tvg-name="|DE| SKY SPORT AUSTRIA FHD/HD" tvg-logo="http://tv.iptvboss.net/ch_logo/SKYSPORTAUSTRIA.png" group-title="|AT| AUSTRIA",|DE| SKY SPORT AUSTRIA FHD/HD 
+http://bosstr.net:80/testskype1/6q60C0QwC4/3897 
+#EXTINF:-1 tvg-id="Sky Sport Austria HD" tvg-name="|DE| SKY SPORT AUSTRIA FHD/HD *" tvg-logo="http://tv.iptvboss.net/ch_logo/SKYSPORTAUSTRIA.png" group-title="|DE| SPORT FHD/HD",|DE| SKY SPORT AUSTRIA FHD/HD * 
+http://bosstr.net:80/testskype1/6q60C0QwC4/19682 
+#EXTINF:-1 tvg-id="NULL" tvg-name="|AT| SKY SPORT 2 AUSTRIA FHD" tvg-logo="" group-title="|AT| AUSTRIA",|AT| SKY SPORT 2 AUSTRIA FHD 
+http://bosstr.net:80/testskype1/6q60C0QwC4/64464 
+#EXTINF:-1 tvg-id="NULL" tvg-name="|AT| SKY SPORT 3 AUSTRIA FHD" tvg-logo="http://tv.iptvboss.net/ch_logo/SKYSPORTAUSTRIA.png" group-title="|AT| AUSTRIA",|AT| SKY SPORT 3 AUSTRIA FHD 
+http://bosstr.net:80/testskype1/6q60C0QwC4/64465
+#EXTINF:-1 tvg-id="NULL" tvg-name="|DE| DAZN 1 HD" tvg-logo="http://tv.iptvboss.net/ch_logo/DAZN1BARFHD.png" group-title="|DE| SPORT FHD/HD",|DE| DAZN 1 HD 
+http://bosstr.net:80/testskype1/6q60C0QwC4/19688 
+#EXTINF:-1 tvg-id="NULL" tvg-name="|DE| DAZN 2 HD" tvg-logo="http://tv.iptvboss.net/ch_logo/DAZN2BARFHD.png" group-title="|DE| SPORT FHD/HD",|DE| DAZN 2 HD 
+http://bosstr.net:80/testskype1/6q60C0QwC4/19687 
+#EXTINF:-1 tvg-id="Sky Bundesliga HD 1" tvg-name="|DE| SKY BUNDESLIGA 1 HD/FHD" tvg-logo="http://tv.iptvboss.net/ch_logo/SKYBUNDESLIGA1FHD.png" group-title="|DE| SPORT FHD/HD",|DE| SKY BUNDESLIGA 1 HD/FHD 
+http://bosstr.net:80/testskype1/6q60C0QwC4/19664 
+#EXTINF:-1 tvg-id="Sky Bundesliga 1" tvg-name="|DE| SKY BUNDESLIGA 1 HD" tvg-logo="http://tv.iptvboss.net/ch_logo/SKYBUNDESLIGA1FHD.png" group-title="|DE| SPORT FHD/HD",|DE| SKY BUNDESLIGA 1 HD 
+http://bosstr.net:80/testskype1/6q60C0QwC4/35923 
+#EXTINF:-1 tvg-id="Sky Sport News HD" tvg-name="|DE| SKY SPORT NEWS FHD/HD" tvg-logo="http://tv.iptvboss.net/ch_logo/SKYSPORTNEWSHD.png" group-title="|DE| SPORT FHD/HD",|DE| SKY SPORT NEWS FHD/HD 
+http://bosstr.net:80/testskype1/6q60C0QwC4/3899 
+#EXTINF:-1 tvg-id="Sky Sport HD 1" tvg-name="|DE| SKY SPORT 1 FHD" tvg-logo="http://tv.iptvboss.net/ch_logo/SKYSPORT1HD.png" group-title="|DE| SPORT FHD/HD",|DE| SKY SPORT 1 FHD 
+http://bosstr.net:80/testskype1/6q60C0QwC4/25232 
+#EXTINF:-1 tvg-id="Sky Sport HD 1" tvg-name="|DE| SKY SPORT 1 HD" tvg-logo="http://tv.iptvboss.net/ch_logo/SKYSPORT1HD.png" group-title="|DE| SPORT FHD/HD",|DE| SKY SPORT 1 HD 
+http://bosstr.net:80/testskype1/6q60C0QwC4/19675 
+#EXTINF:-1 tvg-id="NULL" tvg-name="|DE| SKY SPORT 2 HD" tvg-logo="http://tv.iptvboss.net/ch_logo/SKYSPORT2HD.png" group-title="|DE| SPORT FHD/HD",|DE| SKY SPORT 2 HD 
+http://bosstr.net:80/testskype1/6q60C0QwC4/23843 #EXTINF:-1 tvg-id="NULL" tvg-name="|DE| SKY SPORT 2 HD*" tvg-logo="http://tv.iptvboss.net/ch_logo/SKYSPORT2HD.png" group-title="|DE| SPORT FHD/HD",|DE| SKY SPORT 2 HD* http://bosstr.net:80/testskype1/6q60C0QwC4/23844 
+#EXTINF:-1 tvg-id="Sky Sport HD 2" tvg-name="|DE| SKY SPORT 2 HD/FHD" tvg-logo="http://tv.iptvboss.net/ch_logo/SKYSPORT2HD.png" group-title="|DE| SPORT FHD/HD",|DE| SKY SPORT 2 HD/FHD 
+http://bosstr.net:80/testskype1/6q60C0QwC4/35934 
+#EXTINF:-1 tvg-id="Sky Sport Austria HD" tvg-name="|DE| SKY SPORT AUSTRIA FHD/HD" tvg-logo="http://tv.iptvboss.net/ch_logo/SKYSPORTAUSTRIA.png" group-title="|AT| AUSTRIA",|DE| SKY SPORT AUSTRIA FHD/HD 
+http://bosstr.net:80/testskype1/6q60C0QwC4/3897 
+#EXTINF:-1 tvg-id="Sky Sport Austria HD" tvg-name="|DE| SKY SPORT AUSTRIA FHD/HD *" tvg-logo="http://tv.iptvboss.net/ch_logo/SKYSPORTAUSTRIA.png" group-title="|DE| SPORT FHD/HD",|DE| SKY SPORT AUSTRIA FHD/HD * 
+http://bosstr.net:80/testskype1/6q60C0QwC4/19682 
+#EXTINF:-1 tvg-id="NULL" tvg-name="|AT| SKY SPORT 2 AUSTRIA FHD" tvg-logo="" group-title="|AT| AUSTRIA",|AT| SKY SPORT 2 AUSTRIA FHD 
+http://bosstr.net:80/testskype1/6q60C0QwC4/64464 
+#EXTINF:-1 tvg-id="NULL" tvg-name="|AT| SKY SPORT 3 AUSTRIA FHD" tvg-logo="http://tv.iptvboss.net/ch_logo/SKYSPORTAUSTRIA.png" group-title="|AT| AUSTRIA",|AT| SKY SPORT 3 AUSTRIA FHD 
+http://bosstr.net:80/testskype1/6q60C0QwC4/64465 
+#EXTINF:-1 tvg-id="Sportdigital HD" tvg-name="|DE| SPORTDIGITAL FHD/HD" tvg-logo="http://tv.iptvboss.net/ch_logo/SPORTDIGITAL.png" group-title="|DE| SPORT FHD/HD",|DE| SPORTDIGITAL FHD/HD 
+http://bosstr.net:80/testskype1/6q60C0QwC4/19677 
+#EXTINF:-1 tvg-id="Sky Sport HD 2" tvg-name="|DE| FC BAYERN TV" tvg-logo="http://tv.iptvboss.net/ch_logo/SKYSPORT2HD.png" group-title="|DE| SPORT FHD/HD",|DE| FC BAYERN TV 
+http://bosstr.net:80/testskype1/6q60C0QwC4/25233 
+#EXTINF:-1 tvg-id="Eurosport 1 HD" tvg-name="|DE| EUROSPORT 1 FHD" tvg-logo="http://tv.iptvboss.net/ch_logo/EUROSPORT1HD.png" group-title="|DE| SPORT FHD/HD",|DE| EUROSPORT 1 FHD 
+http://bosstr.net:80/testskype1/6q60C0QwC4/19685 
+#EXTINF:-1 tvg-id="Eurosport 2 HD" tvg-name="|DE| EUROSPORT 2 FHD" tvg-logo="http://tv.iptvboss.net/ch_logo/EUROSPORT2HD.png" group-title="|DE| SPORT FHD/HD",|DE| EUROSPORT 2 FHD 
+http://bosstr.net:80/testskype1/6q60C0QwC4/19684 
+#EXTINF:-1 tvg-id="NULL" tvg-name="|DE| EUROSPORT 2 XTRA FHD" tvg-logo="http://tv.iptvboss.net/ch_logo/EUROSPORT2XTRAHD.png" group-title="|DE| SPORT FHD/HD",|DE| EUROSPORT 2 XTRA FHD 
+http://bosstr.net:80/testskype1/6q60C0QwC4/19683 
+#EXTINF:-1 tvg-id="NULL" tvg-name="|DE| EUROSPORT 1 * FHD/HD" tvg-logo="http://tv.iptvboss.net/ch_logo/EUROSPORT1HD.png" group-title="|DE| SPORT FHD/HD",|DE| EUROSPORT 1 * FHD/HD 
+http://bosstr.net:80/testskype1/6q60C0QwC4/9529 
+#EXTINF:-1 tvg-id="Eurosport 2 HD" tvg-name="|DE| EUROSPORT 2 * FHD/HD" tvg-logo="http://tv.iptvboss.net/ch_logo/EUROSPORT2HD.png" group-title="|DE| SPORT FHD/HD",|DE| EUROSPORT 2 * FHD/HD 
+http://bosstr.net:80/testskype1/6q60C0QwC4/9530 
+#EXTINF:-1 tvg-id="Eurosport 2" tvg-name="|DE| EUROSPORT 2 EXTRA FHD/HD" tvg-logo="http://tv.iptvboss.net/ch_logo/EUROSPORT2XTRAHD.png" group-title="|DE| SPORT FHD/HD",|DE| EUROSPORT 2 EXTRA FHD/HD 
+http://bosstr.net:80/testskype1/6q60C0QwC4/9531 
+#EXTINF:-1 tvg-id="SPORT1" tvg-name="|DE| SPORT 1" tvg-logo="http://tv.iptvboss.net/ch_logo/SPORT1+HD.png" group-title="|DE| SPORT FHD/HD",|DE| SPORT 1 
+http://bosstr.net:80/testskype1/6q60C0QwC4/19679 
+#EXTINF:-1 tvg-id="SPORT1" tvg-name="|DE| SPORT1 HD" tvg-logo="http://tv.iptvboss.net/ch_logo/SPORT1+HD.png" group-title="|DE| SPORT FHD/HD",|DE| SPORT1 HD 
+http://bosstr.net:80/testskype1/6q60C0QwC4/19678 
+#EXTINF:-1 tvg-id="skysportbundesligauhd.de" tvg-name="|DE| SKY SPORT F1" tvg-logo="http://tv.iptvboss.net/ch_logo/SKYSPORTSF1.png" group-title="|DE| SPORT FHD/HD",|DE| SKY SPORT F1 
+http://bosstr.net:80/testskype1/6q60C0QwC4/24948 
+#EXTINF:-1 tvg-id="NULL" tvg-name="|DE| BUNDESLIGA 3.LIGA - 1 HD" tvg-logo="http://tv.iptvboss.net/ch_logo/BUNDESLIGA3LIGA.png" group-title="|DE| SPORT FHD/HD",|DE| BUNDESLIGA 3.LIGA - 1 HD 
+http://bosstr.net:80/testskype1/6q60C0QwC4/24210 
+#EXTINF:-1 tvg-id="NULL" tvg-name="|DE| BUNDESLIGA 3.LIGA - 2 HD" tvg-logo="http://tv.iptvboss.net/ch_logo/BUNDESLIGA3LIGA.png" group-title="|DE| SPORT FHD/HD",|DE| BUNDESLIGA 3.LIGA - 2 HD 
+http://bosstr.net:80/testskype1/6q60C0QwC4/24209 
+#EXTINF:-1 tvg-id="NULL" tvg-name="|DE| BUNDESLIGA 3.LIGA - 3 HD" tvg-logo="http://tv.iptvboss.net/ch_logo/BUNDESLIGA3LIGA.png" group-title="|DE| SPORT FHD/HD",|DE| BUNDESLIGA 3.LIGA - 3 HD 
+http://bosstr.net:80/testskype1/6q60C0QwC4/24208 
+#EXTINF:-1 tvg-id="NULL" tvg-name="|DE| BUNDESLIGA 3.LIGA - 4 HD" tvg-logo="http://tv.iptvboss.net/ch_logo/BUNDESLIGA3LIGA.png" group-title="|DE| SPORT FHD/HD",|DE| BUNDESLIGA 3.LIGA - 4 HD 
+http://bosstr.net:80/testskype1/6q60C0QwC4/24207 
+#EXTINF:-1 tvg-id="NULL" tvg-name="|DE| BUNDESLIGA 3.LIGA - 5 HD" tvg-logo="http://tv.iptvboss.net/ch_logo/BUNDESLIGA3LIGA.png" group-title="|DE| SPORT FHD/HD",|DE| BUNDESLIGA 3.LIGA - 5 HD 
+http://bosstr.net:80/testskype1/6q60C0QwC4/24206 
+#EXTINF:-1 tvg-id="NULL" tvg-name="|DE| BUNDESLIGA 3.LIGA - 6 HD" tvg-logo="http://tv.iptvboss.net/ch_logo/BUNDESLIGA3LIGA.png" group-title="|DE| SPORT FHD/HD",|DE| BUNDESLIGA 3.LIGA - 6 HD 
+http://bosstr.net:80/testskype1/6q60C0QwC4/24205 
+#EXTINF:-1 tvg-id="NULL" tvg-name="|DE| BUNDESLIGA 3.LIGA - 7 HD" tvg-logo="http://tv.iptvboss.net/ch_logo/BUNDESLIGA3LIGA.png" group-title="|DE| SPORT FHD/HD",|DE| BUNDESLIGA 3.LIGA - 7 HD 
+http://bosstr.net:80/testskype1/6q60C0QwC4/38127 
+#EXTINF:-1 tvg-id="NULL" tvg-name="|DE| BUNDESLIGA 3.LIGA - 8 HD" tvg-logo="http://tv.iptvboss.net/ch_logo/BUNDESLIGA3LIGA.png" group-title="|DE| SPORT FHD/HD",|DE| BUNDESLIGA 3.LIGA - 8 HD 
+http://bosstr.net:80/testskype1/6q60C0QwC4/38128 
+#EXTINF:-1 tvg-id="Motorvision TV" tvg-name="|DE| MOTORVISION TV" tvg-logo="http://tv.iptvboss.net/ch_logo/MOTORVISION.png" group-title="|DE| SPORT FHD/HD",|DE| MOTORVISION TV 
+http://bosstr.net:80/testskype1/6q60C0QwC4/9299 
+#EXTINF:-1 tvg-id="Motorvision TV" tvg-name="|DE| MOTORVISION TV FHD/HD" tvg-logo="http://tv.iptvboss.net/ch_logo/MOTORVISION.png" group-title="|DE| SPORT FHD/HD",|DE| MOTORVISION TV FHD/HD 
+http://bosstr.net:80/testskype1/6q60C0QwC4/19676 
+#EXTINF:-1 tvg-id="ORF Sport +" tvg-name="|DE| ORF SPORT FHD/HD" tvg-logo="http://tv.iptvboss.net/ch_logo/ORFSPORT.png" group-title="|DE| SPORT FHD/HD",|DE| ORF SPORT FHD/HD 
+http://bosstr.net:80/testskype1/6q60C0QwC4/19680 
+#EXTINF:-1 tvg-id="Sky Bundesliga HD 2" tvg-name="|DE| SKY BUNDESLIGA 2 FHD/HD" tvg-logo="http://tv.iptvboss.net/ch_logo/SKYBUNDESLIGA2FHD.png" group-title="|DE| SPORT FHD/HD",|DE| SKY BUNDESLIGA 2 FHD/HD 
+http://bosstr.net:80/testskype1/6q60C0QwC4/19663 
+#EXTINF:-1 tvg-id="Sky Bundesliga HD 3" tvg-name="|DE| SKY BUNDESLIGA 3 FHD/HD" tvg-logo="http://tv.iptvboss.net/ch_logo/SKYBUNDESLIGA3FHD.png" group-title="|DE| SPORT FHD/HD",|DE| SKY BUNDESLIGA 3 FHD/HD 
+http://bosstr.net:80/testskype1/6q60C0QwC4/19662 
+#EXTINF:-1 tvg-id="Sky Bundesliga HD 4" tvg-name="|DE| SKY BUNDESLIGA 4 FHD/HD" tvg-logo="http://tv.iptvboss.net/ch_logo/SKYBUNDESLIGA4FHD.png" group-title="|DE| SPORT FHD/HD",|DE| SKY BUNDESLIGA 4 FHD/HD 
+http://bosstr.net:80/testskype1/6q60C0QwC4/19661 
+#EXTINF:-1 tvg-id="Sky Bundesliga HD 5" tvg-name="|DE| SKY BUNDESLIGA 5 FHD/HD" tvg-logo="http://tv.iptvboss.net/ch_logo/SKYBUNDESLIGA5FHD.png" group-title="|DE| SPORT FHD/HD",|DE| SKY BUNDESLIGA 5 FHD/HD 
+http://bosstr.net:80/testskype1/6q60C0QwC4/19660 
+#EXTINF:-1 tvg-id="Sky Bundesliga HD 6" tvg-name="|DE| SKY BUNDESLIGA 6 FHD/HD" tvg-logo="http://tv.iptvboss.net/ch_logo/SKYBUNDESLIGA6FHD.png" group-title="|DE| SPORT FHD/HD",|DE| SKY BUNDESLIGA 6 FHD/HD 
+http://bosstr.net:80/testskype1/6q60C0QwC4/19659 
+#EXTINF:-1 tvg-id="Sky Bundesliga HD 7" tvg-name="|DE| SKY BUNDESLIGA 7 FHD/HD" tvg-logo="http://tv.iptvboss.net/ch_logo/SKYBUNDESLIGA7FHD.png" group-title="|DE| SPORT FHD/HD",|DE| SKY BUNDESLIGA 7 FHD/HD 
+http://bosstr.net:80/testskype1/6q60C0QwC4/19658 
+#EXTINF:-1 tvg-id="Sky Bundesliga HD 8" tvg-name="|DE| SKY BUNDESLIGA 8 FHD/HD" tvg-logo="http://tv.iptvboss.net/ch_logo/SKYBUNDESLIGA8FHD.png" group-title="|DE| SPORT FHD/HD",|DE| SKY BUNDESLIGA 8 FHD/HD 
+http://bosstr.net:80/testskype1/6q60C0QwC4/19657 
+#EXTINF:-1 tvg-id="Sky Bundesliga HD 9" tvg-name="|DE| SKY BUNDESLIGA 9 FHD/HD" tvg-logo="http://tv.iptvboss.net/ch_logo/SKYBUNDESLIGA9FHD.png" group-title="|DE| SPORT FHD/HD",|DE| SKY BUNDESLIGA 9 FHD/HD 
+http://bosstr.net:80/testskype1/6q60C0QwC4/19656 
+#EXTINF:-1 tvg-id="Sky Bundesliga HD 10" tvg-name="|DE| SKY BUNDESLIGA 10 FHD/HD" tvg-logo="http://tv.iptvboss.net/ch_logo/SKYBUNDESLIGA9FHD.png" group-title="|DE| SPORT FHD/HD",|DE| SKY BUNDESLIGA 10 FHD/HD 
+http://bosstr.net:80/testskype1/6q60C0QwC4/19655 
+#EXTINF:-1 tvg-id="NULL" tvg-name="|DE| SKY BUNDESLIGA 2 HD * (On Match Day)" tvg-logo="http://tv.iptvboss.net/ch_logo/SKYBUNDESLIGA2FHD.png" group-title="|DE| SPORT FHD/HD",|DE| SKY BUNDESLIGA 2 HD * (On Match Day) 
+http://bosstr.net:80/testskype1/6q60C0QwC4/35924 
+#EXTINF:-1 tvg-id="NULL" tvg-name="|DE| SKY BUNDESLIGA 3 HD * (On Match Day)" tvg-logo="http://tv.iptvboss.net/ch_logo/SKYBUNDESLIGA3FHD.png" group-title="|DE| SPORT FHD/HD",|DE| SKY BUNDESLIGA 3 HD * (On Match Day) 
+http://bosstr.net:80/testskype1/6q60C0QwC4/35925 
+#EXTINF:-1 tvg-id="NULL" tvg-name="|DE| SKY BUNDESLIGA 4 HD * (On Match Day)" tvg-logo="http://tv.iptvboss.net/ch_logo/SKYBUNDESLIGA4FHD.png" group-title="|DE| SPORT FHD/HD",|DE| SKY BUNDESLIGA 4 HD * (On Match Day) 
+http://bosstr.net:80/testskype1/6q60C0QwC4/35926 
+#EXTINF:-1 tvg-id="NULL" tvg-name="|DE| SKY BUNDESLIGA 5 HD * (On Match Day)" tvg-logo="http://tv.iptvboss.net/ch_logo/SKYBUNDESLIGA5FHD.png" group-title="|DE| SPORT FHD/HD",|DE| SKY BUNDESLIGA 5 HD * (On Match Day) 
+http://bosstr.net:80/testskype1/6q60C0QwC4/35927 
+#EXTINF:-1 tvg-id="NULL" tvg-name="|DE| SKY BUNDESLIGA 6 HD * (On Match Day)" tvg-logo="http://tv.iptvboss.net/ch_logo/SKYBUNDESLIGA6FHD.png" group-title="|DE| SPORT FHD/HD",|DE| SKY BUNDESLIGA 6 HD * (On Match Day) 
+http://bosstr.net:80/testskype1/6q60C0QwC4/35928 
+#EXTINF:-1 tvg-id="NULL" tvg-name="|DE| SKY BUNDESLIGA 7 HD * (On Match Day)" tvg-logo="http://tv.iptvboss.net/ch_logo/SKYBUNDESLIGA7FHD.png" group-title="|DE| SPORT FHD/HD",|DE| SKY BUNDESLIGA 7 HD * (On Match Day) 
+http://bosstr.net:80/testskype1/6q60C0QwC4/35929 
+#EXTINF:-1 tvg-id="NULL" tvg-name="|DE| SKY BUNDESLIGA 8 HD * (On Match Day)" tvg-logo="http://tv.iptvboss.net/ch_logo/SKYBUNDESLIGA8FHD.png" group-title="|DE| SPORT FHD/HD",|DE| SKY BUNDESLIGA 8 HD * (On Match Day) 
+http://bosstr.net:80/testskype1/6q60C0QwC4/35930 
+#EXTINF:-1 tvg-id="NULL" tvg-name="|DE| SKY BUNDESLIGA 9 HD * (On Match Day)" tvg-logo="http://tv.iptvboss.net/ch_logo/SKYBUNDESLIGA9FHD.png" group-title="|DE| SPORT FHD/HD",|DE| SKY BUNDESLIGA 9 HD * (On Match Day) http://bosstr.net:80/testskype1/6q60C0QwC4/35931 #EXTINF:-1 tvg-id="NULL" tvg-name="|DE| SKY BUNDESLIGA 10 HD * (On Match Day)" tvg-logo="" group-title="|DE| SPORT FHD/HD",|DE| SKY BUNDESLIGA 10 HD * (On Match Day) http://bosstr.net:80/testskype1/6q60C0QwC4/35932 #EXTINF:-1 tvg-id="Sky Sport HD 3" tvg-name="|DE| SKY SPORT 3 HD (ON MATCH DAY)" tvg-logo="http://tv.iptvboss.net/ch_logo/SKYSPORT.png" group-title="|DE| SPORT FHD/HD",|DE| SKY SPORT 3 HD (ON MATCH DAY) http://bosstr.net:80/testskype1/6q60C0QwC4/19673 #EXTINF:-1 tvg-id="Sky Sport HD 4" tvg-name="|DE| SKY SPORT 4 HD (ON MATCH DAY)" tvg-logo="http://tv.iptvboss.net/ch_logo/SKYSPORT.png" group-title="|DE| SPORT FHD/HD",|DE| SKY SPORT 4 HD (ON MATCH DAY) http://bosstr.net:80/testskype1/6q60C0QwC4/19672 #EXTINF:-1 tvg-id="Sky Sport HD 5" tvg-name="|DE| SKY SPORT 5 HD (ON MATCH DAY)" tvg-logo="http://tv.iptvboss.net/ch_logo/SKYSPORT.png" group-title="|DE| SPORT FHD/HD",|DE| SKY SPORT 5 HD (ON MATCH DAY) http://bosstr.net:80/testskype1/6q60C0QwC4/19671 #EXTINF:-1 tvg-id="Sky Sport HD 6" tvg-name="|DE| SKY SPORT 6 HD (ON MATCH DAY)" tvg-logo="http://tv.iptvboss.net/ch_logo/SKYSPORT.png" group-title="|DE| SPORT FHD/HD",|DE| SKY SPORT 6 HD (ON MATCH DAY) http://bosstr.net:80/testskype1/6q60C0QwC4/19670 #EXTINF:-1 tvg-id="Sky Sport HD 7" tvg-name="|DE| SKY SPORT 7 HD (ON MATCH DAY)" tvg-logo="http://tv.iptvboss.net/ch_logo/SKYSPORT.png" group-title="|DE| SPORT FHD/HD",|DE| SKY SPORT 7 HD (ON MATCH DAY) http://bosstr.net:80/testskype1/6q60C0QwC4/19669 #EXTINF:-1 tvg-id="Sky Sport HD 8" tvg-name="|DE| SKY SPORT 8 HD (ON MATCH DAY)" tvg-logo="http://tv.iptvboss.net/ch_logo/SKYSPORT.png" group-title="|DE| SPORT FHD/HD",|DE| SKY SPORT 8 HD (ON MATCH DAY) http://bosstr.net:80/testskype1/6q60C0QwC4/19668
+#EXTINF:-1 tvg-id="NULL" tvg-name="|DSTV AFRICA| SUPERSPORT CRICKET" tvg-logo="http://tv.iptvboss.net/ch_logo/dstv.jfif" group-title="|AF| AFRICA",|DSTV AFRICA| SUPERSPORT CRICKET 
+http://bosstr.net:80/testskype1/6q60C0QwC4/55829 #EXTINF:-1 tvg-id="NULL" tvg-name="|DSTV AFRICA| SUPERSPORT VARIETY 1" tvg-logo="http://tv.iptvboss.net/ch_logo/dstv.jfif" group-title="|AF| AFRICA",|DSTV AFRICA| SUPERSPORT VARIETY 1 http://bosstr.net:80/testskype1/6q60C0QwC4/55830 #EXTINF:-1 tvg-id="NULL" tvg-name="|DSTV AFRICA| SUPERSPORT VARIETY 2" tvg-logo="http://tv.iptvboss.net/ch_logo/dstv.jfif" group-title="|AF| AFRICA",|DSTV AFRICA| SUPERSPORT VARIETY 2 http://bosstr.net:80/testskype1/6q60C0QwC4/55834 #EXTINF:-1 tvg-id="NULL" tvg-name="|DSTV AFRICA| SUPERSPORT VARIETY 3" tvg-logo="http://tv.iptvboss.net/ch_logo/dstv.jfif" group-title="|AF| AFRICA",|DSTV AFRICA| SUPERSPORT VARIETY 3 http://bosstr.net:80/testskype1/6q60C0QwC4/55835 #EXTINF:-1 tvg-id="NULL" tvg-name="|DSTV AFRICA| SUPERSPORT VARIETY 4" tvg-logo="http://tv.iptvboss.net/ch_logo/dstv.jfif" group-title="|AF| AFRICA",|DSTV AFRICA| SUPERSPORT VARIETY 4 http://bosstr.net:80/testskype1/6q60C0QwC4/55836 #EXTINF:-1 tvg-id="NULL" tvg-name="|DSTV AFRICA| SUPERSPORT GOLF" tvg-logo="http://tv.iptvboss.net/ch_logo/dstv.jfif" group-title="|AF| AFRICA",|DSTV AFRICA| SUPERSPORT GOLF http://bosstr.net:80/testskype1/6q60C0QwC4/55837 #EXTINF:-1 tvg-id="NULL" tvg-name="|DSTV AFRICA| SUPERSPORT TENNIS" tvg-logo="http://tv.iptvboss.net/ch_logo/dstv.jfif" group-title="|AF| AFRICA",|DSTV AFRICA| SUPERSPORT TENNIS http://bosstr.net:80/testskype1/6q60C0QwC4/55838 #EXTINF:-1 tvg-id="NULL" tvg-name="|DSTV AFRICA| SUPERSPORT GRANDSTAND" tvg-logo="http://tv.iptvboss.net/ch_logo/dstv.jfif" group-title="|AF| AFRICA",|DSTV AFRICA| SUPERSPORT GRANDSTAND http://bosstr.net:80/testskype1/6q60C0QwC4/55841 #EXTINF:-1 tvg-id="NULL" tvg-name="|DSTV AFRICA| SUPERSPORT FOOTBALL" tvg-logo="http://tv.iptvboss.net/ch_logo/dstv.jfif" group-title="|AF| AFRICA",|DSTV AFRICA| SUPERSPORT FOOTBALL http://bosstr.net:80/testskype1/6q60C0QwC4/55840
+#EXTINF:-1 tvg-id="foxsports1.nl" tvg-name="|NL| ESPN 1 FHD" tvg-logo="http://tv.iptvboss.net/ch_logo/espn_logo.png" group-title="|NL| SPORT FHD/HD",|NL| ESPN 1 FHD http://bosstr.net:80/testskype1/6q60C0QwC4/3713 #EXTINF:-1 tvg-id="foxsports2.nl" tvg-name="|NL| ESPN 2 FHD" tvg-logo="http://tv.iptvboss.net/ch_logo/espn_logo.png" group-title="|NL| SPORT FHD/HD",|NL| ESPN 2 FHD http://bosstr.net:80/testskype1/6q60C0QwC4/3712 #EXTINF:-1 tvg-id="foxsports3.nl" tvg-name="|NL| ESPN 3 FHD" tvg-logo="http://tv.iptvboss.net/ch_logo/espn_logo.png" group-title="|NL| SPORT FHD/HD",|NL| ESPN 3 FHD http://bosstr.net:80/testskype1/6q60C0QwC4/3711 #EXTINF:-1 tvg-id="foxsports4.nl" tvg-name="|NL| ESPN 4 FHD" tvg-logo="http://tv.iptvboss.net/ch_logo/espn_logo.png" group-title="|NL| SPORT FHD/HD",|NL| ESPN 4 FHD http://bosstr.net:80/testskype1/6q60C0QwC4/3710 #EXTINF:-1 tvg-id="foxsports5.nl" tvg-name="|NL| ESPN 5 FHD" tvg-logo="http://tv.iptvboss.net/ch_logo/espn_logo.png" group-title="|NL| SPORT FHD/HD",|NL| ESPN 5 FHD http://bosstr.net:80/testskype1/6q60C0QwC4/3709 #EXTINF:-1 tvg-id="foxsports6.nl" tvg-name="|NL| ESPN 6 FHD" tvg-logo="http://tv.iptvboss.net/ch_logo/espn_logo.png" group-title="|NL| SPORT FHD/HD",|NL| ESPN 6 FHD http://bosstr.net:80/testskype1/6q60C0QwC4/3708 #EXTINF:-1 tvg-id="ziggosportgolf.nl" tvg-name="|NL| ZIGGO SPORT GOLF HD" tvg-logo="http://tv.iptvboss.net/ch_logo/220px-Ziggo_Sport_Logo.jpg" group-title="|NL| SPORT FHD/HD",|NL| ZIGGO SPORT GOLF HD http://bosstr.net:80/testskype1/6q60C0QwC4/3714 #EXTINF:-1 tvg-id="ziggosportselect.nl" tvg-name="|NL| ZIGGO SPORT SELECT HD" tvg-logo="http://tv.iptvboss.net/ch_logo/220px-Ziggo_Sport_Logo.jpg" group-title="|NL| SPORT FHD/HD",|NL| ZIGGO SPORT SELECT HD http://bosstr.net:80/testskype1/6q60C0QwC4/3715 #EXTINF:-1 tvg-id="ziggosportvoetbal.nl" tvg-name="|NL| ZIGGO SPORT VOETBAL HD" tvg-logo="http://tv.iptvboss.net/ch_logo/220px-Ziggo_Sport_Logo.jpg" group-title="|NL| SPORT FHD/HD",|NL| ZIGGO SPORT VOETBAL HD http://bosstr.net:80/testskype1/6q60C0QwC4/3716 #EXTINF:-1 tvg-id="eurosport1.nl" tvg-name="|NL| EUROSPORT 1 HD" tvg-logo="http://tv.iptvboss.net/ch_logo/EUROSPORT1HD.png" group-title="|NL| SPORT FHD/HD",|NL| EUROSPORT 1 HD http://bosstr.net:80/testskype1/6q60C0QwC4/8571 #EXTINF:-1 tvg-id="eurosport2.nl" tvg-name="|NL| EUROSPORT 2 HD" tvg-logo="http://tv.iptvboss.net/ch_logo/EUROSPORT2HD.png" group-title="|NL| SPORT FHD/HD",|NL| EUROSPORT 2 HD http://bosstr.net:80/testskype1/6q60C0QwC4/8572 
